@@ -5,3 +5,6 @@ rvm:
   - 2.1.2
   - jruby-19mode
 script: rake acceptance
+before_script:
+  - "export DISPLAY=:99.0"
+  - "sh -e /etc/init.d/xvfb start"
