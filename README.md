@@ -1,6 +1,7 @@
 # Experience::Web
+[![Build Status](https://travis-ci.org/daneandersen/experience-web.svg)](https://travis-ci.org/daneandersen/experience-web)
 
-TODO: Write a gem description
+Test web applications for the user experience
 
 ## Installation
 
